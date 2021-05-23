@@ -1,7 +1,8 @@
 #include <iostream>
-int main() {
+int main()
+{
     std::string name;
-    std::cin >> name;//your name
+    std::cin >> name; // your name
     std::cout << "Hello world from " << name << std::endl;
     return 0;
 }
